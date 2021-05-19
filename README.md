@@ -1,7 +1,7 @@
 # iss_tracker
 Live ISS tracker with map
-
-Usage: python Iss_tracker_with_map.py
+terminal Usage: python Iss_tracker.py
+Gui Usage: python Iss_tracker_with_map.py
 
 ![uno](https://user-images.githubusercontent.com/29146438/118897707-844ba800-b913-11eb-9203-7f61111f551b.PNG)
 

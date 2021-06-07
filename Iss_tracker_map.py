@@ -8,12 +8,12 @@ from geopy.geocoders import Nominatim
 screen = turtle.Screen()
 screen.setup(720,360)
 screen.setworldcoordinates(-180,-90,180,90)
-screen.bgpic('images/world_map.png')
-screen.register_shape('images/iss_icon.gif')
+screen.bgpic('world_map.png')
+screen.register_shape('iss_icon.gif')
 
 iss = turtle.Turtle()
 turtle.title('ISS Tracker')
-iss.shape('images/iss_icon.gif')
+iss.shape('iss_icon.gif')
 iss.penup()
 
 while True:

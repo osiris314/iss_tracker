@@ -1,4 +1,4 @@
-# iss_tracker
+# ISS TRACKER
 Live ISS tracker with map
 
 terminal Usage: python Iss_tracker.py
